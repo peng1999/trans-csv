@@ -1,0 +1,11 @@
+[package]
+name = "trans-csv"
+version = "0.1.0"
+authors = ["Peng Guanwen <pg999w@outook.com>"]
+
+[dependencies]
+
+[build-dependencies]
+cc = "*"
+bindgen = "*" 
+glob = "*"
